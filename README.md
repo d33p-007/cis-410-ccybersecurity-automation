@@ -1,5 +1,13 @@
 # CIS 410: Cybersecurity Automation
 
+## My Week 2 Infrastructure 
+
+Runner VM: a-runner
+
+Runner IP: 10.129.5.83 #fake ip
+
+Pipeline status: [![Hello Pipeline](https://github.com/d33p-007/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/d33p-007/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
+
 
 ## About Me
 
