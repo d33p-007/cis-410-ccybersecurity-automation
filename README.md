@@ -2,7 +2,7 @@
 
 ## My Week 2 Infrastructure 
 
-Runner VM: a-runner
+Runner VM: pawan-runner
 
 Runner IP: 10.129.5.83 #fake ip
 
