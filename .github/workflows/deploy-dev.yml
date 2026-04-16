@@ -9,7 +9,7 @@
 #
 # ORDER OF OPERATIONS:
 #   1. Run setup-dev.yml FIRST (manual, one time) to install Docker
-#   2. THIS workflow runs automatically on every git push to main
+#   2. THIS workflow runs automatically on every git push to main 
 # ─────────────────────────────────────────────────────────────────────────────
 
 name: "Deploy — Dev"
