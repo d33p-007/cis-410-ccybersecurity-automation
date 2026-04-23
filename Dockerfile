@@ -33,3 +33,4 @@ EXPOSE 5000
 # Exec form (JSON array) — makes Python PID 1 so it receives SIGTERM directly
 # for graceful shutdown. Shell form uses /bin/sh as PID 1 instead.
 CMD ["python", "app.py"]
+
