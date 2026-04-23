@@ -48,3 +48,5 @@ EXPOSE 5000
 
 # VIOLATION 3: No USER instruction — runs as root
 CMD ["python", "app/app.py"]
+
+
