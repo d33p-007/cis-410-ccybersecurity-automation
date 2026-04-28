@@ -4,7 +4,7 @@
 
 Runner VM: pawan-runner
 
-Runner IP: 10.129.5.83 #fake ip
+Runner IP: 192.168.1.131 #fake ip
 
 Pipeline status: [![Hello Pipeline](https://github.com/d33p-007/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/d33p-007/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
 
@@ -15,7 +15,7 @@ Pipeline status: [![Hello Pipeline](https://github.com/d33p-007/cis-410-cybersec
 
 - **GitHub Username:** d33p-007
 
-- **Major:** IT
+- **Major:** Cybersecurity
 
 - **Semester:** Spring 2026
 
@@ -42,4 +42,4 @@ infrastructure as code, and cloud deployment.
 
 ## Fun Fact
 
-Love to travel and spend time with family
+Love to travel and party
