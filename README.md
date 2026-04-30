@@ -42,4 +42,4 @@ infrastructure as code, and cloud deployment.
 
 ## Fun Fact
 
-Love to travel and party fun
+Love to travel and party have fun
