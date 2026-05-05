@@ -1,13 +1,12 @@
 # CIS 410: Cybersecurity Automation
 
-## My Week 2 Infrastructure 
+## My Week 2 Infrastructure
 
 Runner VM: pawan-runner
 
 Runner IP: 192.168.1.131 #fake ip
 
 Pipeline status: [![Hello Pipeline](https://github.com/d33p-007/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/d33p-007/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
-
 
 ## About Me
 
@@ -19,7 +18,6 @@ Pipeline status: [![Hello Pipeline](https://github.com/d33p-007/cis-410-cybersec
 
 - **Semester:** Spring 2026
 
-
 ## About This Course
 
 This repository is my CIS 410: CyberSecurity Automation portfolio. In this course I will
@@ -27,7 +25,6 @@ This repository is my CIS 410: CyberSecurity Automation portfolio. In this cours
 learn about secure software development, CI/CD pipelines, containerization,
 
 infrastructure as code, and cloud deployment.
-
 
 ## What I Hope to Learn
 
@@ -39,7 +36,6 @@ infrastructure as code, and cloud deployment.
 
 - I hope to learn automation in cybersecurity
 
-
 ## Fun Fact
 
-Love to travel and party fun
+Love to travel and party
