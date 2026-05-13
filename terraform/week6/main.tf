@@ -54,7 +54,7 @@ resource "google_storage_bucket" "tf_state" {
   }
 }
 
-# ── Bucket 2: Logs ────────────────────────────────────────────────────────────
+# ── Bucket 2: Logs ───────────────────────────────────────────────────────────
 # Stores application and infrastructure logs. Used in Week 9.
 # Objects older than 30 days are automatically deleted.
 resource "google_storage_bucket" "logs" {
