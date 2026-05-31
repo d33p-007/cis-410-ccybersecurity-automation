@@ -18,7 +18,7 @@ terraform {
 
     bucket = "responsive-lens-495317-a6-tfstate" # same bucket as Week 7
 
-    prefix = "terraform/week7" # different prefix = separate state
+    prefix = "terraform/week8" # different prefix = separate state
 
   }
 
@@ -98,7 +98,7 @@ resource "google_cloud_run_v2_service" "flask_app" {
     }
 
 
-    # Connect Cloud Run to the VPC from Week 8
+    # Connect Cloud Run to the VPC from Week 7
 
     vpc_access {
 

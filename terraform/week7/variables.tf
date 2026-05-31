@@ -1,6 +1,3 @@
-# terraform/week8/variables.tf
-
-
 variable "project_id" {
 
   description = "Your GCP project ID"
